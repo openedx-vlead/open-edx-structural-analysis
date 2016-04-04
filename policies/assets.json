@@ -1,1 +1,26 @@
-{}
+{
+    "icons_Structural_Analysis.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EERC04", 
+            "name": "icons_Structural_Analysis.png", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Structural Analysis.png", 
+        "filename": "asset-v1:IIIT-Hyderabad+EERC04+Anytime+type@asset+block@icons_Structural_Analysis.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "EERC04", 
+            "thumbnail", 
+            "icons_Structural_Analysis-png.jpg", 
+            null
+        ]
+    }
+}
