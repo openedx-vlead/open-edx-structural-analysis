@@ -1,4 +1,4 @@
-* Structural analysis
+* Structural analysis 
 ** Steps to import a new course on edX studio
 - Log in to edX studio.(URL: http://edx-courses.vlabs.ac.in:18010)
 - Click on =New Course= button to create the course
